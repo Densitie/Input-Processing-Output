@@ -1,5 +1,4 @@
 /*
- * Arun K
  * This is a GUI average grade calculator
  * Septembre 21 2019
 */
